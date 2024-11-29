@@ -9,7 +9,9 @@
 - **Soft Skills:** Proatividade, Resolução de Problemas, Trabalho em Equipe.  
 
 ### 📂 Projetos:
-[Calculadora Python] Este espaço será onde documentarei minha evolução no meu projeto em Python.
+ Este espaço será onde documentarei minha evolução nos projetos:
+- **[Calculadora Python]**: Resolver um desafio de lógica em Python.
+- **[Site Pessoal]**: Criação de um site simples em HTML e CSS.
 
 ### 🔗 Conecte-se:
 [LinkedIn](https://www.linkedin.com/in/amabile-rosa-873b80227)  
